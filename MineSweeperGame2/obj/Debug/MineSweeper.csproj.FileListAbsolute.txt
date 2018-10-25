@@ -1,0 +1,14 @@
+C:\Users\ecsadmin\source\repos\MineSweeperGame2\MineSweeperGame2\obj\Debug\MineSweeper.csprojAssemblyReference.cache
+C:\Users\ecsadmin\source\repos\MineSweeperGame2\MineSweeperGame2\obj\Debug\MineSweeperGame2.MinesweeperForm.resources
+C:\Users\ecsadmin\source\repos\MineSweeperGame2\MineSweeperGame2\obj\Debug\MineSweeperGame2.Properties.Resources.resources
+C:\Users\ecsadmin\source\repos\MineSweeperGame2\MineSweeperGame2\obj\Debug\MineSweeper.csproj.GenerateResource.cache
+C:\Users\ecsadmin\source\repos\MineSweeperGame2\MineSweeperGame2\obj\Debug\MineSweeper.csproj.CoreCompileInputs.cache
+C:\Users\ecsadmin\source\repos\MineSweeperGame2\MineSweeperGame2\obj\Debug\MineSweeperGame2.exe
+C:\Users\ecsadmin\source\repos\MineSweeperGame2\MineSweeperGame2\obj\Debug\MineSweeperGame2.pdb
+C:\Users\ecsadmin\source\repos\MineSweeperGame2\MineSweeperGame2\bin\Debug\MineSweeperGame2.exe.config
+C:\Users\ecsadmin\source\repos\MineSweeperGame2\MineSweeperGame2\bin\Debug\MineSweeperGame2.exe.manifest
+C:\Users\ecsadmin\source\repos\MineSweeperGame2\MineSweeperGame2\bin\Debug\MineSweeperGame2.application
+C:\Users\ecsadmin\source\repos\MineSweeperGame2\MineSweeperGame2\bin\Debug\MineSweeperGame2.exe
+C:\Users\ecsadmin\source\repos\MineSweeperGame2\MineSweeperGame2\bin\Debug\MineSweeperGame2.pdb
+C:\Users\ecsadmin\source\repos\MineSweeperGame2\MineSweeperGame2\obj\Debug\MineSweeperGame2.exe.manifest
+C:\Users\ecsadmin\source\repos\MineSweeperGame2\MineSweeperGame2\obj\Debug\MineSweeperGame2.application
